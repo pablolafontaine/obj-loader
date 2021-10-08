@@ -5,6 +5,8 @@ You can also fly around and explore the model! (with very bad controls!)
 
 Just don't upload any obj over 1mb or so (depending on your hardware). The more verticies the more resource intensive it becomes.
 
+Test it out [here](https://www.kouhai.world/)!
+
 Made this for fun and to test out GopherJS, as well as dip my feet in WebGL.
 
 <img src="https://www.kouhai.world/photos/cow.png">
